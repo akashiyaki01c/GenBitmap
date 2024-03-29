@@ -2,5 +2,6 @@
 /output/
 
 build.sh
+watch.deno.ts
 .*
 !.gitignore
