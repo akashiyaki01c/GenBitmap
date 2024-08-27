@@ -1,5 +1,4 @@
 /bin/
-/output/
 
 *.sh
 watch.deno.ts
