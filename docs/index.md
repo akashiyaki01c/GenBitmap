@@ -9,10 +9,10 @@ GenBitmapは、[源ノ角ゴシック](https://github.com/adobe-fonts/source-han
 ## ダウンロード
 [GitHub Releaseページ](https://github.com/akashiyaki01c/GenBitmap/releases)よりダウンロードいただけます。
 
-<style>
+<style>v
 @font-face {
 	font-family: "_GenBitmap";
-	src: url(https://cdn.jsdelivr.net/gh/akashiyaki01c/GenBitmap/output/GenBitmap.woff2) format(woff2);
+	src: url(https://cdn.jsdelivr.net/gh/akashiyaki01c/GenBitmap/output/GenBitmap.woff2) format("woff2");
 }
 :root {
 	font-family: "_GenBitmap";
